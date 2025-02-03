@@ -1,0 +1,13 @@
+[project]
+name = "game"
+version = "1.0.0"
+description = "Pygame, le point va suivre ta souris ! "
+authors = [
+    {name = "Mélie", email = "Mélie@gmail.com"}
+]
+readme = "README.md"
+dependencies = [
+    "pygame>=2.6.1",
+
+]
+
