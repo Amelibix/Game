@@ -8,3 +8,5 @@ Python
 ```.\env\Scripts\activate```
 
 ```pip install .```
+
+```python Jeux.py ```
